@@ -1,0 +1,23 @@
+{
+    "name": "Pikachu",
+    "description": "This is Pikachu",
+    "image": "http://ipfs.io/ipfs/Qmehx9wrDa5vQ2feBk3hqVcFGPeYEmMbAjNBPK9S5sKjaS",
+    "strength": 20,
+    "actributes": [
+        {
+            "trait_type": "Animation",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Yellow",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Flying",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}

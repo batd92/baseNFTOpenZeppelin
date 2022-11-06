@@ -1,0 +1,30 @@
+{
+  "name": "sysnftopenzeppelin_cover",
+  "version": "1.0.0",
+  "description": "Build and deploy NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/system01no2l/sysNFTOpenZeppelin_Cover.git"
+  },
+  "keywords": [
+    "NFT"
+  ],
+  "author": "TaoBa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/system01no2l/sysNFTOpenZeppelin_Cover/issues"
+  },
+  "homepage": "https://github.com/system01no2l/sysNFTOpenZeppelin_Cover#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2"
+  }
+}
